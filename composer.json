@@ -2,6 +2,7 @@
   "name": "suneil/rpn",
   "description": "Reverse Polish Notation Calculator",
   "minimum-stability": "stable",
+  "license": "mit",
   "authors": [
     {
       "name": "Suneil Patel",

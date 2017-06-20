@@ -1,5 +1,6 @@
 {
   "name": "suneil/rpn",
+  "version": "0.1.0",
   "description": "Reverse Polish Notation Calculator",
   "minimum-stability": "stable",
   "license": "mit",

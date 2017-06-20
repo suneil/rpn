@@ -1,6 +1,7 @@
 {
   "name": "suneil/rpn",
   "description": "Reverse Polish Notation Calculator",
+  "minimum-stability": "stable",
   "authors": [
     {
       "name": "Suneil Patel",

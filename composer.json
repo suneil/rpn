@@ -1,0 +1,23 @@
+{
+  "name": "suneil/rpn",
+  "description": "Reverse Polish Notation Calculator",
+  "authors": [
+    {
+      "name": "Suneil Patel",
+      "email": "suneilp@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": { "ReversePolish\\": "src/" }
+  },
+  "require": {
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.2"
+  },
+  "scripts": {
+    "test": [
+      "phpunit"
+    ]
+  }
+}
